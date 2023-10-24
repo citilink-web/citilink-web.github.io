@@ -1,0 +1,692 @@
+<!DOCTYPE html>
+<html lang='en' xmlns='http://www.w3.org/1999/xhtml' xmlns:v='urn:schemas-microsoft-com:vml'
+	xmlns:o='urn:schemas-microsoft-com:office:office'>
+
+<head>
+	<meta charset='utf-8'>
+	<meta name='viewport' content='width=device-width'>
+	<meta http-equiv='X-UA-Compatible' content='IE=edge'>
+	<meta name='x-apple-disable-message-reformatting'>
+	<meta content="telephone=no" name="format-detection">
+	<title></title>
+	<script src="https://kit.fontawesome.com/703cd1d557.js" crossorigin="anonymous"></script>
+	<style>
+		html,
+		body {
+			margin: 0 auto !important;
+			padding: 0 !important;
+			height: 100% !important;
+			width: 100% !important;
+		}
+
+		* {
+			-ms-text-size-adjust: 100%;
+			-webkit-text-size-adjust: 100%;
+		}
+
+		div[style*='margin: 10px 0'] {
+			margin: 0 !important;
+		}
+
+		table,
+		td {
+			mso-table-lspace: 0pt !important;
+			mso-table-rspace: 0pt !important;
+		}
+
+		table {
+			border-spacing: 0 !important;
+			border-collapse: collapse !important;
+			table-layout: fixed !important;
+			margin: 0 auto !important;
+		}
+
+		table table table {
+			table-layout: auto;
+		}
+
+		img {
+			-ms-interpolation-mode: bicubic;
+		}
+
+		.a6S {
+			display: none !important;
+			opacity: 0.01 !important;
+		}
+
+		img.g-img+div {
+			display: none !important;
+		}
+
+		.button-link {
+			text-decoration: none !important;
+		}
+
+		@media only screen and (min-device-width: 375px) and (max-device-width: 413px) {
+			.email-container {
+				min-width: 375px !important;
+			}
+		}
+	</style>
+	<style>
+		.button-td,
+		.button-a {
+			border: 6px solid #2eb82e;
+			background: #2eb82e;
+			transition: all 100ms ease-in;
+		}
+
+		.button-td:hover,
+		.button-a:hover {
+			background: #66cc00 !important;
+			border-color: #66cc00 !important;
+		}
+
+		/* Media Queries */
+		@media screen and (max-width: 600px) {
+			.email-container {
+				width: 100% !important;
+				margin: auto !important;
+			}
+
+			.fluid {
+				max-width: 100% !important;
+				height: auto !important;
+				margin-left: auto !important;
+				margin-right: auto !important;
+			}
+
+			.stack-column,
+			.stack-column-center {
+				display: block !important;
+				width: 100% !important;
+				max-width: 100% !important;
+				direction: ltr !important;
+			}
+
+			.stack-column-center {
+				text-align: center !important;
+			}
+
+			.center-on-narrow {
+				text-align: center !important;
+				display: block !important;
+				margin-left: auto !important;
+				margin-right: auto !important;
+				float: none !important;
+			}
+
+			table.center-on-narrow {
+				display: inline-block !important;
+			}
+
+			.email-container p {
+				font-size: 16px !important;
+
+			}
+
+			/* Create two equal columns that floats next to each other */
+			.column {
+				float: left;
+				width: auto;
+				height: auto;
+				/* Should be removed. Only for demonstration */
+			}
+
+			/* Clear floats after the columns */
+			.row {
+
+				display: table;
+				clear: both;
+			}
+
+			.line {
+				border-top: 1px solid #30353b;
+				padding-top: 5px;
+				padding-bottom: 5px;
+				margin: 40px auto 0;
+				width: 30%;
+				position: relative;
+				border-top-style: dashed;
+			}
+
+			.line:before,
+			.line:after {
+
+				width: 10px;
+				height: 10px;
+				background: #30353b;
+				border-radius: 5px;
+				position: absolute;
+				top: -6px;
+			}
+
+			.line:after {
+				right: 0;
+			}
+
+		}
+	</style>
+</head>
+
+
+<body width='100%' background-color='#fff' style='margin: 0; mso-line-height-rule: exactly;'>
+	<center style='width: 100%; background: #fff; font-family: Arial, Helvetica, sans-serif;'>
+
+
+		<!-- </header> -->
+		<table role='presentation' cellspacing='0' cellpadding='0' border='0' align='center' width='100%'
+			style='margin: auto;' class='email-container'>
+
+			<tr style='text-align: center;'>
+
+				<table width='100%'>
+
+					<tr>
+						<th><img src='../images/citilink-gd.png' style='width:130px; padding: 9px; position: relative;'>
+						</th>
+					</tr>
+					<tr>
+						<td style='position: relative; text-align: center; left: 0; right:0; font-size: 12px; '>Register
+							Office: Jln. Kebon Sirih No.46A, Gambir, Jakarta Pusat. 10110 (Gedung Garuda Indonesia )
+						</td>
+					</tr>
+					<tr style='position: relative; text-align: center; left: 0; right: 0; font-size: 12px;'>
+						<td>NPWP : 02.827.597.2-093.000 <img src='../images/Phone.png' style='width:15px'>: 0804 1
+							080808</td>
+
+					</tr>
+				</table>
+			</tr>
+
+			<hr>
+		</table>
+
+		<!-- </paidorunpaid> -->
+		<table role='presentation' cellspacing='0' cellpadding='0' border='0' align='center' width='100%'
+			style='margin: auto;' class='email-container'>
+
+			<tr style='text-align: center;'>
+
+				<table width='100%'>
+
+					<tr>
+						<td
+							style='position: relative; text-align: center; left: 0; right:0; text-decoration: underline; color: #424242;'>
+							AIRLINES TICKET</td>
+					</tr>
+					<tr style='position: relative; text-align: center; left: 0; right: 0;'>
+						<td style='font-weight: bold; color: #66cc00;'>PAID</td>
+
+					</tr>
+				</table>
+			</tr>
+
+		</table>
+
+
+
+		<!-- </bookingcode> -->
+		<tr>
+			<td>
+				<table width='100%'>
+
+					<tr>
+						<th
+							style='text-align: left; font-weight: 100; font-size: 16px; color: #424242; position: relative; top:0; width: 25%; background-color: #fafafa; border-radius: 10px; padding:10px ; line-height: 1.5;'>
+							<a>Booking Code : <strong>QGG4DU </strong></a><br><a>Payment Code : 53408031117 </a> </th>
+						<th style='text-align: left; font-weight: 100; position: relative; width: 27%;'> </th>
+
+						<th></th>
+						<th style='text-align: left; font-weight: 100; position: relative; width: 25%;'> </th>
+					</tr>
+					<tr>
+						<td
+							style='text-align: left; font-weight: 100; font-size: 17px; color: #424242; position: relative; top:0; background-color: #fafafa;'>
+						</td>
+						<td> </td>
+						<td style='text-align: center;'> </td>
+
+						<td
+							style='text-align: left; font-weight: bold; position: relative;  color: #008C3C; font-size: 21px;'>
+						</td>
+					</tr>
+					<tr>
+						<td
+							style='text-align: center; font-weight: 100; font-size: 23px; color: #424242; position: relative; '>
+						</td>
+						<td style='text-align: left; position: relative; ;'></td>
+
+						<td
+							style='text-align: center; font-weight: bold; font-size: 23px; color: #424242; position: relative; '>
+						</td>
+						<td style='text-align: left; font-weight: 100; position: relative;  '></td>
+					</tr>
+					<tr>
+						<td></td>
+						<td style='text-align: left; position: relative; color: #898989;'></td>
+						<td style='text-align: center;'></td>
+
+						<td style='text-align: left; font-weight: 100; position: relative; color: #898989;'></td>
+					</tr>
+
+
+				</table>
+
+			</td>
+		</tr>
+
+
+
+
+
+		<!-- </Flight Details> -->
+		<tr style='text-align: left;'>
+			<td bgcolor='#fff' style='padding-top: 25px;'>
+				<table width='100%'>
+					<tr>
+						<td style='padding-top: 20px; padding-bottom: 10px;'><a
+								style='font-family: helvetica;padding-left:10px; color:#424242; font-weight: bold; font-size: 17px; border-left: 4px solid #52BB0B;'>
+								Flight Details</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+
+
+		<!-- </segment1> -->
+		<tr>
+			<td>
+				<table width='100%'>
+
+					<tr>
+						<th
+							style='text-align: left; font-weight: 100; font-size: 23px; color: #424242; position: relative; top: 20px; width: 15%;'>
+							QG 680</th>
+						<th style='text-align: left; font-weight: 100; position: relative; width: 25%; color: #898989;'>
+							Sat - 7 OCT 2023</th>
+
+						<th></th>
+						<th style='text-align: left; font-weight: 100; position: relative; width: 25%; color: #898989;'>
+							Sat - 7 OCT 2023</th>
+					</tr>
+					<tr>
+						<td
+							style='text-align: left; font-weight: 100; font-size: 15px; color: #424242; position: relative; top: 10px;'>
+							Airbus 320</td>
+						<td
+							style='text-align: left; font-weight: bold; position: relative; color: #008C3C; font-size: 21px;'>
+							<img src='../images/Time-Circle.png' style='width:19px'> 22.00 PM</td>
+						<td style='text-align: center;'><img src='../images/Group 10793.svg' style='width:150px'></td>
+
+						<td
+							style='text-align: left; font-weight: bold; position: relative;  color: #008C3C; font-size: 21px;'>
+							<img src='../images/Time-Circle.png' style='width:19px'> 22.50 PM</td>
+					</tr>
+					<tr>
+						<td
+							style='text-align: center; font-weight: 100; font-size: 23px; color: #424242; position: relative; '>
+						</td>
+						<td style='text-align: left; position: relative; ;'>CGK - Jakarta (Soekarno Hatta)</td>
+
+						<td
+							style='text-align: center; font-weight: bold; font-size: 23px; color: #424242; position: relative; '>
+						</td>
+						<td style='text-align: left; font-weight: 100; position: relative;  '>DPS - Denpasar Bali</td>
+					</tr>
+					<tr>
+						<td></td>
+						<td style='text-align: left; position: relative; color: #898989;'>Soekarno Hatta Intl Airport -
+							Terminal 3</td>
+						<td style='text-align: center;'></td>
+
+						<td style='text-align: left; font-weight: 100; position: relative; color: #898989;'>Ngurah Rai
+							Intl Airport</td>
+					</tr>
+
+
+				</table>
+
+			</td>
+		</tr>
+
+
+		<!-- </transit> -->
+		<tr>
+			<td>
+				<table width='100%' style='text-align: center;'>
+					<tr>
+						<td style='padding: 10px;'>
+							<p
+								style='background-color: #F5FBF1; border:1px dashed #008C3C; border-radius: 90px; color: #898989; padding: 5px;'>
+								Transit <a style='font-weight: bold; color: #008C3C;'>in Denpasar Bali (DPS)</a> 11 hour
+								20 minutes... </p>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+
+
+
+
+		<!-- </segment2> -->
+		<tr>
+			<td>
+				<table width='100%'>
+
+					<tr>
+						<th
+							style='text-align: left; font-weight: 100; font-size: 23px; color: #424242; position: relative; top: 20px; width: 15%;'>
+							QG 1672</th>
+						<th style='text-align: left; font-weight: 100; position: relative; width: 25%; color: #898989;'>
+							Sat - 7 OCT 2023</th>
+
+						<th></th>
+						<th style='text-align: left; font-weight: 100; position: relative; width: 25%; color: #898989;'>
+							Sat - 7 OCT 2023</th>
+					</tr>
+					<tr>
+						<td
+							style='text-align: left; font-weight: 100; font-size: 15px; color: #424242; position: relative; top: 10px;'>
+							ATR</td>
+						<td
+							style='text-align: left; font-weight: bold; position: relative; color: #008C3C; font-size: 21px;'>
+							<img src='../images/Time-Circle.png' style='width:19px'> 07.10 AM</td>
+						<td style='text-align: center;'><img src='../images/Group 10793.svg' style='width:150px'></td>
+
+						<td
+							style='text-align: left; font-weight: bold; position: relative;  color: #008C3C; font-size: 21px;'>
+							<img src='../images/Time-Circle.png' style='width:19px'> 07.50 AM</td>
+					</tr>
+					<tr>
+						<td
+							style='text-align: center; font-weight: 100; font-size: 23px; color: #424242; position: relative; '>
+						</td>
+						<td style='text-align: left; position: relative; ;'>DPS - Denpasar Bali </td>
+
+						<td
+							style='text-align: center; font-weight: bold; font-size: 23px; color: #424242; position: relative; '>
+						</td>
+						<td style='text-align: left; font-weight: 100; position: relative;  '>LOP - Lombok Praya</td>
+					</tr>
+					<tr>
+						<td></td>
+						<td style='text-align: left; position: relative; color: #898989;'>Ngurah Rai Intl Airport </td>
+						<td style='text-align: center;'></td>
+
+						<td style='text-align: left; font-weight: 100; position: relative; color: #898989;'>Lombok</td>
+					</tr>
+
+
+				</table>
+
+			</td>
+		</tr>
+
+
+
+
+
+
+		<!-- </Passenger Detail> -->
+		<tr style='text-align: left;'>
+			<td bgcolor='#fff' style='padding-top: 25px;'>
+				<table width='100%'>
+					<tr>
+						<td style='padding-top: 20px; padding-bottom: 10px;'><a
+								style='font-family: helvetica;padding-left:10px; color:#424242; font-weight: bold; font-size: 17px; border-left: 4px solid #52BB0B;'>
+								Passenger Detail </td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+
+
+		<!-- </listPax> -->
+		<tr>
+			<td>
+				<table width='100%'>
+
+					<tr style='background-color: #fafafa; border-radius: 10px; color: #424242;'>
+						<th
+							style='text-align: center; width: 5%; background-color: #fafafa; padding: 10px; border-top-left-radius: 15px;'>
+							No.</th>
+						<th style='text-align: left; color: #424242; position: relative;  width: 30%;'>Nama</th>
+						<th style='text-align: left; color: #424242; position: relative; text-align: center;'>Route</th>
+						<th style='text-align: left; color: #424242; position: relative; text-align: center;'>Check-Bge
+						</th>
+						<th style='text-align: left; color: #424242; position: relative; text-align: center;'>Cabin Bge
+						</th>
+						<th style='text-align: left; color: #424242; position: relative; text-align: center;'>Seat</th>
+						<th
+							style='text-align: left; color: #424242; position: relative;  width: 21%; text-align: center; background-color: #fafafa; padding: 10px; border-top-right-radius: 15px;'>
+							Miscellaneous</th>
+
+					</tr>
+
+					<tr>
+						<td style='text-align: center;'>1</td>
+						<td style='text-align: left; color: #424242; position: relative; font-size: 15px;'>Mr. Hafidz
+							Aulia (Adult)</td>
+						<td
+							style='text-align: left; color: #424242; position: relative; font-size: 15px; text-align: center;'>
+							CGK - DPS</td>
+						<td
+							style='text-align: left; color: #424242; position: relative; font-size: 15px; padding-top: 5px; text-align: center;'>
+							20 kg</td>
+						<td
+							style='text-align: left; color: #424242; position: relative; font-size: 15px; padding-top: 5px; text-align: center;'>
+							7 kg</td>
+						<td
+							style='text-align: left; color: #424242; position: relative; font-size: 15px; padding-top: 5px; text-align: center;'>
+							2C</td>
+						<td
+							style='text-align: left; color: #424242; position: relative; font-size: 15px; padding-top: 5px; text-align: center;'>
+							Meals</td>
+					</tr>
+
+
+					<tr style='border-bottom: 1px solid #d1d1d1;'>
+						<td></td>
+						<td
+							style='text-align: left; color: #424242; position: relative; padding-bottom: 5px; font-size: 12px; font-style: italic;'>
+							Linkmiles ID: 21329329349, Tier:Crown Greeners</td>
+						<td
+							style='text-align: left; color: #424242; position: relative; font-size: 15px; text-align: center;'>
+							CGK - DPS</td>
+						<td
+							style='text-align: left; color: #424242; position: relative; font-size: 15px; padding-top: 5px; text-align: center;'>
+							20 kg</td>
+						<td
+							style='text-align: left; color: #424242; position: relative; font-size: 15px; padding-top: 5px; text-align: center;'>
+							7 kg</td>
+						<td
+							style='text-align: left; color: #424242; position: relative; font-size: 15px; padding-top: 5px; text-align: center;'>
+							2C</td>
+						<td
+							style='text-align: left; color: #424242; position: relative; font-size: 15px; padding-top: 5px; text-align: center;'>
+						</td>
+					</tr>
+
+
+					<tr>
+						<td></td>
+						<td style='text-align: left; color: #424242; position: relative; left: -180px;'></td>
+						<td></td>
+						<td style='text-align: left; color: #424242; position: relative; left: -300px;'></td>
+					</tr>
+
+					<tr>
+						<td style='text-align: center;'>2</td>
+						<td style='text-align: left; color: #424242; position: relative; font-size: 15px; '>Mrs. Karina
+							Desira (Adult</td>
+						<td
+							style='text-align: left; color: #424242; position: relative; font-size: 15px; text-align: center;'>
+							CGK - DPS</a></td>
+						<td
+							style='text-align: left; color: #424242; position: relative; font-size: 15px; padding-top: 5px; padding-bottom: 5px; text-align: center;'>
+							20 kg</td>
+						<td
+							style='text-align: left; color: #424242; position: relative; font-size: 15px; padding-top: 5px; text-align: center;'>
+							7 kg</td>
+						<td
+							style='text-align: left; color: #424242; position: relative; font-size: 15px; padding-top: 5px; text-align: center;'>
+							2C</td>
+						<td
+							style='text-align: left; color: #424242; position: relative; font-size: 15px; padding-top: 5px; text-align: center;'>
+							BGE Paid 10Kg</td>
+					</tr>
+
+
+					<tr style='border-bottom: 1px solid #d1d1d1;'>
+						<td></td>
+						<td style='text-align: left; color: #424242; position: relative; left: -180px;'></td>
+						<td
+							style='text-align: left; color: #424242; position: relative; font-size: 15px; text-align: center;'>
+							CGK - DPS</a></td>
+						<td
+							style='text-align: left; color: #424242; position: relative; font-size: 15px; padding-top: 5px; padding-bottom: 5px; text-align: center;'>
+							20 kg</td>
+						<td
+							style='text-align: left; color: #424242; position: relative; font-size: 15px; padding-top: 5px; text-align: center;'>
+							7 kg</td>
+						<td
+							style='text-align: left; color: #424242; position: relative; font-size: 15px; padding-top: 5px; text-align: center;'>
+							2C</td>
+						<td
+							style='text-align: left; color: #424242; position: relative; font-size: 15px; padding-top: 5px; text-align: center;'>
+						</td>
+					</tr>
+
+
+					<tr>
+						<td style='text-align: center;'>3</td>
+						<td style='text-align: left; color: #424242; position: relative; font-size: 15px; '>Mstr. Arif
+							Rahman (Child)</td>
+						<td
+							style='text-align: left; color: #424242; position: relative; font-size: 15px; text-align: center;'>
+							CGK - DPS</a></td>
+						<td
+							style='text-align: left; color: #424242; position: relative; font-size: 15px; padding-top: 5px; padding-bottom: 5px; text-align: center;'>
+							20 kg</td>
+						<td
+							style='text-align: left; color: #424242; position: relative; font-size: 15px; padding-top: 5px; text-align: center;'>
+							7 kg</td>
+						<td
+							style='text-align: left; color: #424242; position: relative; font-size: 15px; padding-top: 5px; text-align: center;'>
+							2C</td>
+						<td
+							style='text-align: left; color: #424242; position: relative; font-size: 15px; padding-top: 5px; text-align: center;'>
+							Meals</td>
+					</tr>
+
+					<tr>
+						<td></td>
+						<td style='text-align: left; color: #424242; position: relative; left: -180px;'></td>
+						<td
+							style='text-align: left; color: #424242; position: relative; font-size: 15px; text-align: center;'>
+							CGK - DPS</a></td>
+						<td
+							style='text-align: left; color: #424242; position: relative; padding-top: 5px; padding-bottom: 5px; text-align: center;'>
+							20 kg</td>
+						<td
+							style='text-align: left; color: #424242; position: relative; padding-top: 5px; text-align: center;'>
+							7 kg</td>
+						<td
+							style='text-align: left; color: #424242; position: relative; padding-top: 5px; text-align: center;'>
+							2C</td>
+						<td
+							style='text-align: left; color: #424242; position: relative; padding-top: 5px; text-align: center;'>
+						</td>
+					</tr>
+
+				</table>
+
+			</td>
+		</tr>
+
+
+		<!-- </Price Details> -->
+		<tr style='text-align: left;'>
+			<td bgcolor='#fff'>
+				<table width='100%'>
+					<tr>
+						<td style='padding-top: 20px; padding-bottom: 10px;'><a
+								style='font-family: helvetica;padding-left:10px; color:#424242; font-weight: bold; font-size: 17px; border-left: 4px solid #52BB0B;'>
+								Price Details </td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+
+
+		<!-- </listPriceDetails> -->
+		<tr style='text-align: left;'>
+			<table width='97%' style='background-color: #fafafa; border-radius: 10px; color: #424242;'>
+				<td>
+
+
+					<tr style='text-align: left; border-bottom: 1px dashed #d1d1d1;'>
+						<td style='padding: 10px;'><a style='color: #898989;'>Basic fares:</a> IDR 1.550.000, <a
+								style='color: #898989;'>PSC:</a> IDR 168.720, <a style='color: #898989;'>SC:</a> IDR
+							121.600, <a style='color: #898989;'>VS:</a> IDR 13.367, <a style='color: #898989;'>VAT:</a>
+							IDR 82.060</td>
+
+					</tr>
+					<tr style='text-align: left; border-bottom: 1px dashed #d1d1d1;'>
+						<td style='padding: 10px;'><a style='color: #898989;'>Baggage :</a> IDR 368.720, <a
+								style='color: #898989;'>Meals :</a> IDR 50.720 </td>
+
+					</tr>
+					<tr style='text-align: left;'>
+						<td style='font-weight: bold; padding: 10px;'>Total: IDR 1.136.000</td>
+					</tr>
+				</td>
+			</table>
+		</tr>
+
+		<p></p>
+
+		<!-- </footer> -->
+		<tr style='text-align: left;'>
+			<td>
+				<table width='100%'
+					style='padding-top: 20px; padding-left: 20px; padding-bottom: 20px; padding-right: 20px; background-color: #F5FBF1; color: #424242; position: relative; bottom: 0;'>
+
+					<tr>
+						<td
+							style='color: #52BB0B; font-weight: bold; width: 50%; padding-left:15px; padding-top: 15px; '>
+							ONLINE CHECK-IN</td>
+						<td style='font-weight: bold; width: 50%;  padding-top: 15px; '><img
+								src='../images/drawable-xxxhdpi-icon.svg' style='width:35px'>: Citilink</td>
+						<td></td>
+
+					</tr>
+					<tr>
+						<td style='padding-left:15px; '>Available 100 days - 1 hour before departure</td>
+						<td><a href='https://www.citilink.co.id/'
+								style='text-decoration: none; color: #424242;'>https://www.citilink.co.id/</a></td>
+
+					</tr>
+					<tr>
+						<td style='padding-left:15px; padding-bottom:15px;'>Check-In Here : <a
+								style='color: #52BB0B; font-weight: bold; text-decoration: none;'
+								href='https://book.citilink.co.id/SearchWebCheckin.aspx'>Web Check-in</a> | <a
+								style='color: #52BB0B; font-weight: bold; text-decoration: none;'
+								href='https://m-member.citilink.co.id/app/checkin'>Mobile Check-in</a></td>
+						<td style='padding-bottom:15px;'>Join LinkMiles, Enjoy the benefits.</td>
+					</tr>
+				</table>
+			</td>
+
+		</tr>
+
+
+		</table>
+	</center>
+
+
+</body>
+
+</html>
